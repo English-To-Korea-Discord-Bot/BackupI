@@ -9,15 +9,15 @@ class Config:
     shard_count = 1
     per_cluster = 1
 
-    prefix = "x!"
+    prefix = "k!"
 
     dbl_token = None
 
-    support_guild = 410488579140354049
-    owner_id = 386861188891279362
+    support_guild = 918805032298745926
+    owner_id = 932290636013518899
     invite_url = None  # Set to None to generate one automatically
 
-    identifier = "xenon"
+    identifier = "BackupI"
 
     db_host = "localhost"
     db_user = None
